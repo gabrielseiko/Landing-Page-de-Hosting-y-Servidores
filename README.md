@@ -33,3 +33,12 @@ https://gabrielseiko.github.io/Landing-Page-de-Hosting-y-Servidores/
 * Tipos de Servidores
 
 ![image](https://user-images.githubusercontent.com/116466802/225480325-24de4e22-83b4-4a66-9568-84b7fa785345.png)
+
+
+# Animacion
+
+Como una de las modificaciones a la pagina se agrego una animacion con css a la pagina.
+
+![image](https://user-images.githubusercontent.com/116466802/225483054-708a456c-9ca3-49b3-87bc-396713691d72.png)
+
+
