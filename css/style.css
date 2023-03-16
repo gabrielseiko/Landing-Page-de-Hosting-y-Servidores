@@ -239,6 +239,18 @@ ul {
     height: auto;
     margin: 15px 0px;
 }
+/* ANIMACION DE LA IMAGEN*/
+.float{
+    animation: float 2s linear infinite;
+}
+@keyframes float{
+    0%, 100%{
+        transform: translateY(0rem);
+    }
+    50%{
+        transform: translateY(-1.5rem);
+    }
+}
 /*about*/
 .about .box-content {
     padding: 0;
