@@ -7,10 +7,12 @@ al concepto y temas buscados.
 
 ## Dirección de la Pagina:
 
-https://gabrielseiko.github.io/hostingyservicios.github.io/
+https://gabrielseiko.github.io/Landing-Page-de-Hosting-y-Servidores/
+
 
 
 ![image](https://user-images.githubusercontent.com/116466802/225480056-4af09812-c52b-41a2-9757-775552efe85a.png)
+
 
 
 * Hosting
