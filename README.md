@@ -5,8 +5,13 @@ La presente pagina es un landing page sobre los conceptos e tipos de hosting y s
 Para la creacion de la pagina se realizo a base de una plantilla de la pagina https://elements.envato.com/es/  la cual se modifico para adaptar
 al concepto y temas buscados.
 
+## Dirección de la Pagina:
+
+https://gabrielseiko.github.io/hostingyservicios.github.io/
+
 
 ![image](https://user-images.githubusercontent.com/116466802/225480056-4af09812-c52b-41a2-9757-775552efe85a.png)
+
 
 * Hosting
 
